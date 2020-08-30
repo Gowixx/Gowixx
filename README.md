@@ -1,5 +1,5 @@
 <p align=center>
-  <img src="https://avatars3.githubusercontent.com/u/66761259?s=200"/>
+  <img src="https://avatars1.githubusercontent.com/u/57415348?s=200"/>
 </p>
 <h1 align=center>Yo, Im Gowixx 👋</h1>
 
