@@ -25,3 +25,10 @@ Credits to 0xKyoto for the ReadeMe
     </a>
   </p>
 </details>
+
+<details>
+      <summary>Contact.</summary>
+  <p align=center>
+    You can contact me any time from discord @ Gowixx#4488
+  </p>
+</details>
