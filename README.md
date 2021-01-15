@@ -3,8 +3,8 @@
 </p>
 <h1 align=center>Hey, Im Gowixx 👋</h1>
 
-- 🔭 I’m currently working on **Python development on Discord Bots**
-- 🌱 I’m currently learning **More Python**!
+- 🔭 I’m currently working on **Improving my Knowledge in Java Development, especially Minecraft Clients.**
+- 🌱 I’m currently learning **More Java**!
 - 📫 How to reach me: **Gowixx#4488**
 
 <hr>
