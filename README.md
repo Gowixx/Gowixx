@@ -3,15 +3,15 @@
 </p>
 <h1 align=center>Hey, Im Gowixx 👋</h1>
 
-- 🔭 I’m currently working on **Improving my Knowledge in Java Development, especially Minecraft Clients.**
-- 🌱 I’m currently learning **More Java**!
+- 🔭 I’m currently working on **Some backends, but most importantly a flask login api.**
+- 🌱 I’m currently learning **Java**!
 - 📫 How to reach me: **Gowixx#4488**
 
 <hr>
 
-I am a pretty good python dev that likes to work in my free time.
+I am a pretty good dev that likes to work in my free time.
 
-If you want anything for me to make just contact me on discord @ **Gowixx#448**
+If you want anything for me to make just contact me on discord @ **Gowixx#4488**
 
 Credits to 0xKyoto for the ReadeMe
 <hr>
