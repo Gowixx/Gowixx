@@ -1,19 +1,10 @@
 <p align=center>
   <img src="https://avatars1.githubusercontent.com/u/57415348?s=200"/>
 </p>
-<h1 align=center>Hey, Im Gowixx 👋</h1>
-
-- 🔭 I’m currently working on **Some backends, but most importantly a flask login api.**
-- 🌱 I’m currently learning **Java**!
+<h1 align=center>Hey, Im Gowixx</h1>
 - 📫 How to reach me: **Gowixx#4488**
 
 <hr>
-
-I am a pretty good dev that likes to work in my free time.
-
-If you want anything for me to make just contact me on discord @ **Gowixx#4488**
-
-Credits to 0xKyoto for the ReadeMe
 <hr>
 
 <details>
@@ -29,6 +20,6 @@ Credits to 0xKyoto for the ReadeMe
 <details>
       <summary>Contact.</summary>
   <p align=center>
-    You can contact me any time from discord @ Gowixx#4488
-  </p>
+If you want anything open an issue on this project ;D
+</p>
 </details>
