@@ -2,8 +2,8 @@
   <img src="https://avatars1.githubusercontent.com/u/57415348?s=200"/>
 </p>
 <h1 align=center>Hey, Im Gowixx</h1>
-- 📫 How to reach me: **Gowixx#4488**
-
+- 📫 How to reach me: <strong>notgowixxmen@protonmail.ch</strong>
+</h1>
 <hr>
 <hr>
 
