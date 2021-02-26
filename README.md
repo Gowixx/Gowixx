@@ -11,7 +11,7 @@
       <summary>Statistics.</summary>
   <p align=center>
     <a href="https://github.com/Gowixx">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gowixx&show_icons=true&include_all_commits=true&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFFF&bg_color=808080&hide_border=false" alt="Gowixx's Statistics." />
+      <img align="center" src="<img align="left" alt="Trapss ReadME" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gowixx&count_private=true&show_icons=true&hide_border=true&theme=radical"/>" alt="Gowixx's Statistics." />
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gowixx&show_icons=true&show_icons=true&title_color=fff&icon_color=303030&text_color=303030&bg_color=ffffff&hide_border=true" alt="Gowixx's Statistics." />
     </a>
   </p>
