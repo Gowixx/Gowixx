@@ -1,6 +1,6 @@
 
 <h2 align="center">Gowixx's Stats</h2>
-<a href="https://github.com/Dropout1337">
+<a href="https://github.com/Gowixx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
   </p>
