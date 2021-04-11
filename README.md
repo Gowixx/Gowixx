@@ -1,24 +1,15 @@
-<p align=center>
-  <img src="https://avatars1.githubusercontent.com/u/57415348?s=200"/>
-</p>
-<h1 align=center>Hey, Im Gowixx</h1>
-- 📫 How to reach me: <strong>notgowixxmen@protonmail.ch</strong>
-</h1>
-<hr>
-<hr>
 
-<details>
-      <summary>Statistics.</summary>
-  <p align=center>
-    <a href="https://github.com/Gowixx">
-      <img align="left" alt="Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Gowixx&count_private=true&show_icons=true&hide_border=true&theme=radical"/>
-    </a>
+<h2 align="center">Gowixx's Stats</h2>
+<a href="https://github.com/Dropout1337">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
   </p>
-</details>
+</a>
 
-<details>
-      <summary>Contact.</summary>
-  <p align=center>
-If you want anything open an issue on this project ;D
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Gowixx&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
 </p>
-</details>
+
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/277476244000473090.png" />
+</p>
