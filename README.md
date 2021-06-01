@@ -1,5 +1,7 @@
+![Header](./header.png)
 
-<h2 align="center">Gowixx's Stats</h2>
+<h1 align="center">Gowixx</h1>
+<p align="center">Intermediate Python developer, I know a bit of javascript, but that's all</p>
 <a href="https://github.com/Gowixx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
@@ -12,4 +14,9 @@
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/277476244000473090.png" />
+  <br />
+  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gowixx&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
+
+![Footer](./footer.png)
