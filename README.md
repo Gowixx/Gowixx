@@ -14,9 +14,7 @@
 
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/693502062650064906.png" />
-  <br />
-  <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Gowixx&theme=nord&margin-w=15&margin-h=1&column=6" />
+  <p align="center">Info: I won't update my discord for a while due to me getting termed too much</p>
 </p>
 
 ![Footer](./footer.png)
