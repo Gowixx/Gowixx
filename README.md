@@ -13,8 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/693502062650064906.png" />
-  <p align="center">Info: I won't update my discord for a while due to me getting termed too much</p>
+  <img src="https://discord.c99.nl/widget/theme-4/921536571373649930.png" />
 </p>
 
 ![Footer](./footer.png)
