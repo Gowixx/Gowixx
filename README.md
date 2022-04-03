@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">Gowixx</h1>
-<p align="center">Intermediate Developer, I know: Python, Javascript, PHP</p>
+<p align="center">Intermediate Developer, I know: Python, Javascript, HTML, and CSS</p>
 <a href="https://github.com/Gowixx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/921536571373649930.png" />
+  <img src="https://discord.c99.nl/widget/theme-4/672185198766587907.png" />
 </p>
 
 ![Footer](./footer.png)
