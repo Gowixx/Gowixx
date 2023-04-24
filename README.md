@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
 <h1 align="center">Gowixx</h1>
-<p align="center">Intermediate Developer, I know: Python, Javascript, HTML, and CSS</p>
+<p align="center">Full-stack Developer, I know: Python, Java, TypeScript, JavaScript, HTML, and CSS</p>
 <a href="https://github.com/Gowixx">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
