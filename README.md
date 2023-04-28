@@ -1,19 +1,46 @@
-![Header](./header.png)
+<!--![Header](./header.png)-->
+<h1>👋 Hi, I'm Gowixx</h1>
+<p>I'm a Full-stack developer. Here are my stats:</p>
 
-<h1 align="center">Gowixx</h1>
-<p align="center">Full-stack Developer, I know: Python, Java, TypeScript, JavaScript, HTML, and CSS</p>
+<img src="https://github-readme-stats.vercel.app/api/?username=Gowixx&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+
+## Technologies i've used and am familiar with:
+
+<details>
+   <summary>Text Editors</summary>
+   <img src="https://skillicons.dev/icons/?i=vscode,visualstudio,eclipse?v=5&perline=7" />
+</details>
+<details>
+   <summary>Web Development</summary>
+   <img src="https://skillicons.dev/icons/?i=html,css,bootstrap,jquery,js,react,next,tailwind,php,express,flask,fastapi,mongodb,firebase,redis,regex?v=5&perline=7" />
+</details>
+<details>
+   <summary>Programming Languages</summary>
+   <img src="https://skillicons.dev/icons/?i=cs,python,java,typescript,lua,mysql,pytorch,sqlite,selenium&perline=7" />
+</details>
+<details>
+   <summary>Version Control and Collaboration</summary>
+   <p>
+      <img src="https://skillicons.dev/icons/?i=github,git,gitlab?v=5&perline=7" />
+   </p>
+</details>
+<details>
+   <summary>Deployment and Hosting</summary>
+   <img src="https://skillicons.dev/icons/?i=heroku,gcp,vercel,raspberrypi,workers,cloudflare,sentry&perline=7" />
+</details>
+<details>
+   <summary>Other Tools</summary>
+   <img src="https://skillicons.dev/icons/?i=figma,v,nodejs,maven,linux,bash,twitter,discord,bots,v?v=5&perline=7" />
+</details>
+
+## Other Information
+
+<img src="https://discord.c99.nl/widget/theme-1/1092504401232535633.png" style="border-radius: 0.5rem" />
+
 <a href="https://github.com/Gowixx">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
-  </p>
+      <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
 </a>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/?username=Gowixx&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
-</p>
 
-<p align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/672185198766587907.png" />
-</p>
 
-![Footer](./footer.png)
+<!--![Footer](./footer.png)-->
