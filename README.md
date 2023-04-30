@@ -8,20 +8,20 @@
 
 <details>
    <summary>Text Editors</summary>
-   <img src="https://skillicons.dev/icons/?i=vscode,visualstudio,eclipse?v=5&perline=7" />
+   <img src="https://skillicons.dev/icons/?i=vscode,visualstudio,eclipse&perline=7" />
 </details>
 <details>
    <summary>Web Development</summary>
-   <img src="https://skillicons.dev/icons/?i=html,css,bootstrap,jquery,js,react,next,tailwind,php,express,flask,fastapi,mongodb,firebase,redis,regex?v=5&perline=7" />
+   <img src="https://skillicons.dev/icons/?i=html,css,bootstrap,jquery,js,react,next,tailwind,php,express,flask,fastapi,mongodb,firebase,redis,regex&perline=7" />
 </details>
 <details>
    <summary>Programming Languages</summary>
-   <img src="https://skillicons.dev/icons/?i=cs,python,java,typescript,lua,mysql,pytorch,sqlite,selenium&perline=7" />
+   <img src="https://skillicons.dev/icons/?i=cs,python,java,typescript,lua,mysql,pytorch,sqlite,selenium,v&perline=7" />
 </details>
 <details>
    <summary>Version Control and Collaboration</summary>
    <p>
-      <img src="https://skillicons.dev/icons/?i=github,git,gitlab?v=5&perline=7" />
+      <img src="https://skillicons.dev/icons/?i=github,git,gitlab&perline=7" />
    </p>
 </details>
 <details>
@@ -30,7 +30,7 @@
 </details>
 <details>
    <summary>Other Tools</summary>
-   <img src="https://skillicons.dev/icons/?i=figma,v,nodejs,maven,linux,bash,twitter,discord,bots,v?v=5&perline=7" />
+   <img src="https://skillicons.dev/icons/?i=figma,v,nodejs,maven,linux,bash,twitter,discord,bots&perline=7" />
 </details>
 
 ## Other Information
