@@ -30,12 +30,12 @@
 </details>
 <details>
    <summary>Other Tools</summary>
-   <img src="https://skillicons.dev/icons/?i=figma,v,nodejs,maven,linux,bash,twitter,discord,bots&perline=7" />
+   <img src="https://skillicons.dev/icons/?i=figma,nodejs,maven,linux,bash,twitter,discord,bots&perline=7" />
 </details>
 
 ## Other Information
 
-<img src="https://discord.c99.nl/widget/theme-1/1092504401232535633.png" style="border-radius: 0.5rem" />
+<img src="https://discord.c99.nl/widget/theme-1/1125923743986884689.png" style="border-radius: 0.5rem" />
 
 <a href="https://github.com/Gowixx">
       <img src="https://komarev.com/ghpvc/?username=Gowixx" alt="Profile Views">
